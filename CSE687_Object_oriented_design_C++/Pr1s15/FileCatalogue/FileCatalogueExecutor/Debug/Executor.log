@@ -1,0 +1,26 @@
+﻿Build started 2/8/2015 9:45:13 PM.
+     1>Project "D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\FileCatalogueExecutor\Executor.vcxproj" on node 4 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D TEST_EXECUTOR /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt ..\CatalogueTextSearch\SearchText.cpp ..\Catalogue\Catalogue.cpp ..\DataStore\DataStore.cpp ..\FileManager\FileManager.cpp ..\FileSystem\FileSystemDemo\FileSystem.cpp Executor.cpp
+         Executor.cpp
+         FileSystem.cpp
+         FileManager.cpp
+         DataStore.cpp
+         Catalogue.cpp
+         SearchText.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\Debug\FileCatalogueExecutor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\Debug\FileCatalogueExecutor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\Debug\FileCatalogueExecutor.lib" /MACHINE:X86 Debug\SearchText.obj
+         Debug\Catalogue.obj
+         Debug\DataStore.obj
+         Debug\FileManager.obj
+         Debug\FileSystem.obj
+         Debug\Executor.obj
+         Executor.vcxproj -> D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\Debug\FileCatalogueExecutor.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\Debug\FileCatalogueExecutor.bsc" /n Debug\SearchText.sbr Debug\Catalogue.sbr Debug\DataStore.sbr Debug\FileManager.sbr Debug\FileSystem.sbr Debug\Executor.sbr
+     1>Done Building Project "D:\Dropbox\syracuse\OOD\workspace\Pr1s15\FileCatalogue\FileCatalogueExecutor\Executor.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:44.38

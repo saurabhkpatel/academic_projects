@@ -1,0 +1,129 @@
+
+  Project #1 Demonstration:
+ ===========================
+
+  Commandline arguments:
+ ------------------------
+  executive 
+  .. /s /d /f#define /q 
+  
+  commandline parse succeeded
+
+  Showing results based on commandline arguments
+ ------------------------------------------------
+  Found 104 files in 20 directories
+
+  Show text search results:
+ ---------------------------
+  search text = "#define"
+  Catalog.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog
+  DataStore.cpp
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore
+  DataStore.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore
+  Display.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display
+  Display.vcxproj.user
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display
+  Executive.vcxproj.user
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive
+  FileMgr.cpp
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr
+  FileMgr.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr
+  FileSystem.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr
+  Utilities.cpp
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities
+  Utilities.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities
+
+  Show duplicate files:
+ -----------------------
+  CL.read.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities\Debug\Utilities.tlog
+  CL.write.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities\Debug\Utilities.tlog
+  Catalog.obj
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+  DataStore.obj
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug
+  Display.obj
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+  FileMgr.obj
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug
+  FileSystem.obj
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug
+  cl.command.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities\Debug\Utilities.tlog
+  link.command.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+  link.read.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+  link.write.1.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug\Catalog.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug\DataStore.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug\Display.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug\Executive.tlog
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug\FileMgr.tlog
+  vc120.idb
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities\Debug
+  vc120.pdb
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Catalog\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\DataStore\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Display\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Executive\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr\Debug
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\Utilities\Debug
+
+  Text queries:
+ ---------------
+  enter text string (return to quit): 
+  FileSystem.cpp
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr
+  FileSystem.h
+    c:\su\cse687\code\Project1HelpS15\VS-Help-S2015\FileMgr
+  enter text string (return to quit): 
+

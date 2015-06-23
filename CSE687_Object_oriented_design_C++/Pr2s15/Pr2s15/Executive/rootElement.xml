@@ -1,0 +1,6 @@
+
+  <root attr1="attr1Value" attr2="attr2Value">
+    <child>
+    </child>
+    <!-- new root node added-->
+  </root>

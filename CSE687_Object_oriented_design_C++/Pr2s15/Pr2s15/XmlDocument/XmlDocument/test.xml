@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!--top level comment-->
+<parent att1="val1" att2="val2">
+	<child>
+		<child11>child11 body</child11>
+	</child>
+</parent>

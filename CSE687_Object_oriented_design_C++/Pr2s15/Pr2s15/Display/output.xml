@@ -1,0 +1,7 @@
+
+  <root>
+    this is a test
+    <child first="test">
+      this is another test
+    </child>
+  </root>
